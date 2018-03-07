@@ -36,3 +36,6 @@ ADS - IFPI
 - Registrar tópicos do livro
   - Capítulos
   - Pequeno resumo de cada capítulo
+  
+# Diagrama
+<img src="Diagrama.png" />
