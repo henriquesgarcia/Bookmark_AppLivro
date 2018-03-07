@@ -1,5 +1,8 @@
 # Bookmark_AppLivro
 Aplicativo de acompanhamento de leituras
+Disciplina: POO
+Professor: Rogério Silva
+ADS - IFPI
 
 ## Funcionalidades
 - Organizar os livros em estados de:
