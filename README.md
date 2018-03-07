@@ -40,5 +40,5 @@ ADS - IFPI
 ## Diagrama
 <img src="Diagrama.png" />
 
-## Telas
-<img src="Telas.JPG />"
+## Storyboard
+<img src="Telas.PNG" />
