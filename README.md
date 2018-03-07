@@ -38,7 +38,7 @@ ADS - IFPI
   - Pequeno resumo de cada capítulo
   
 ## Diagrama
-<img src="Diagrama.png" />
+<img src="Artefatos do Projeto/Diagrama.png" />
 
 ## Storyboard
-<img src="Telas.PNG" />
+<img src="Artefatos do projeto/Storyboard.PNG" />
