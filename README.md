@@ -41,4 +41,4 @@ ADS - IFPI
 <img src="Artefatos do Projeto/Diagrama.png" />
 
 ## Storyboard
-<img src="Artefatos do projeto/Storyboard.PNG" />
+<img src="Artefatos do Projeto/Storyboard.PNG" />
