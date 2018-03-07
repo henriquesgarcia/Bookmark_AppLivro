@@ -1,0 +1,160 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:3796930186332267671",
+      "lastPropertyId": "5:3764209994894171155",
+      "name": "Avaliacao",
+      "properties": [
+        {
+          "id": "1:1930515727606837",
+          "name": "id"
+        },
+        {
+          "id": "3:6312634462816660813",
+          "name": "descricao"
+        },
+        {
+          "id": "4:2719178292503540277",
+          "name": "comentario"
+        },
+        {
+          "id": "5:3764209994894171155",
+          "indexId": "5:5171644063707173011",
+          "name": "livroId"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "2:5655444297006771809",
+      "lastPropertyId": "9:145402725362697931",
+      "name": "Livro",
+      "properties": [
+        {
+          "id": "1:9017374011263579416",
+          "name": "id"
+        },
+        {
+          "id": "2:9040996125062796361",
+          "name": "titulo"
+        },
+        {
+          "id": "3:1240985809192254807",
+          "name": "categoria"
+        },
+        {
+          "id": "4:5022810601627573728",
+          "name": "autor"
+        },
+        {
+          "id": "5:2485526321570075602",
+          "name": "anoDePublicacao"
+        },
+        {
+          "id": "6:5447761627682629217",
+          "name": "quantidadeDePaginas"
+        },
+        {
+          "id": "7:4809598431471570497",
+          "indexId": "1:926042712924144590",
+          "name": "situacaoId"
+        },
+        {
+          "id": "8:3743577617150837164",
+          "indexId": "2:4814880706305464660",
+          "name": "avaliacaoId"
+        },
+        {
+          "id": "9:145402725362697931",
+          "indexId": "3:7071555585091184151",
+          "name": "usuarioId"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "3:8211087165498218623",
+      "lastPropertyId": "3:5073149756352524512",
+      "name": "Situacao",
+      "properties": [
+        {
+          "id": "1:6917512734989236422",
+          "name": "id"
+        },
+        {
+          "id": "2:5615073237320549309",
+          "name": "descricao"
+        },
+        {
+          "id": "3:5073149756352524512",
+          "indexId": "6:8545131408464699344",
+          "name": "livroId"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4:7478361250956370376",
+      "lastPropertyId": "3:841178803447097957",
+      "name": "Tag",
+      "properties": [
+        {
+          "id": "1:3598115809987876877",
+          "name": "id"
+        },
+        {
+          "id": "2:1584587713100351750",
+          "name": "nomeDaTag"
+        },
+        {
+          "id": "3:841178803447097957",
+          "indexId": "4:4166120215094487249",
+          "name": "livroId"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "5:4453182203227356533",
+      "lastPropertyId": "4:1144716682925063932",
+      "name": "Usuario",
+      "properties": [
+        {
+          "id": "1:4512603834268131601",
+          "name": "id"
+        },
+        {
+          "id": "2:740564809506901290",
+          "name": "nome"
+        },
+        {
+          "id": "3:2891191265044370650",
+          "name": "email"
+        },
+        {
+          "id": "4:1144716682925063932",
+          "name": "senha"
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "5:4453182203227356533",
+  "lastIndexId": "6:8545131408464699344",
+  "lastRelationId": "1:8154142459093948741",
+  "lastSequenceId": "0:0",
+  "modelVersion": 4,
+  "modelVersionParserMinimum": 4,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    3216597162190786731
+  ],
+  "retiredRelationUids": [
+    8154142459093948741
+  ],
+  "version": 1
+}

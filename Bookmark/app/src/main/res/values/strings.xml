@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bookmark</string>
+    <string name="biblioteca">Biblioteca</string>
+    <string name="lendo">Lendo</string>
+    <string name="lido">Lido</string>
+    <string name="lerei">Lerei</string>
+    <string name="perfil">Perfil</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="tv_saudacao">Olá, seja bem-vindo ao Bookmark</string>
+    <string name="gostei">Gostei</string>
+    <string name="nao_gostei">Não Gostei</string>
+    <string name="salvar">SALVAR</string>
+    <string name="titulo">Título</string>
+    <string name="sinopse">“Harry Potter vive com sua tia, tio e primo porque seus pais morreram em um acidente de carro – ou pelo menos é isso que foi dito para ele. Os Dursley não gostam que Harry faça perguntas; de fato, eles não parecem gostar de nada sobre Harry, especialmente as coisas estranhas que acontecem ao redor dele (para as quais ele mesmo não tem explicação).O maior medo dos Dursley é que Harry descubra a verdade sobre si mesmo, então quando cartas começam a chegar para ele em 11º aniversário, ele não tem permissão para lê-las. No entanto, os Dursley não estão lidando com um carteiro comum, e à meia noite do aniversário de Harry o gigantesco Rúbeo Hagrid arromba a porta para ter certeza que Harry finalmente consiga ler sua carta. Ignorando os horrorizados Dursley, Hagrid informa a Harry que ele é um feiticeiro, e a carta que ele dá a Harry explica que el é esperado na Escola de Magia e Bruxaria de Hogwarts dali a um mês.
+Para a fúria dos Dursley, Hagrid também revela a verdade sobre o passado de Harry. Harry não recebeu a cicatriz em sua testa por causa de um acidente de carro; é na verdade a marca do grande mago das trevas Voldemort, que matou os pais de Harry mas, misteriosamente, não conseguiu matá-lo, mesmo que ele fosse um bebê na época. Harry é famoso entre bruxas e magos, que vivem em segredo por todo o país, por causa de sua sobrevivência milagrosa, que marcou a queda de Voldemort.
+Então Harry, que nunca teve amigos ou família que valessem qualquer coisa, sai de casa para uma nova vida no mundo da magia. Ele faz uma viagem para Londres com Hagrid para comprar seu equipamento de Hogwarts (vestes, caldeirões, kits de poções para iniciantes) e pouco depois vai para Hogwarts através da estação King’s Cross (plataforma nove e três quartos) para seguir os passos de seus pais.
+Harry faz amizade com Ronald Weasley (o sexto de sua família a ir para Hogwarts, e cansado de ter livros de feitiço usados) e Hermione Granger (a garota mais esperta da escola e a única a saber todos os usos do sangue de dragão). Juntos, eles tem suas primeiras aulas de magia – astronomia na torre mais alta de Hogwarts às duas da manhã, herbologia nas estufas, onde…”, diz a sinopse incompleta.</string>
+</resources>

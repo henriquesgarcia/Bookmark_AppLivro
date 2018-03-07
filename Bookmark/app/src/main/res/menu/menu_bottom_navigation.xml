@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_biblioteca"
+        android:icon="@drawable/ic_biblioteca"
+        android:title="@string/biblioteca" />
+
+    <item
+        android:id="@+id/item_lendo"
+        android:icon="@drawable/ic_lendo"
+        android:title="@string/lendo" />
+
+    <item
+        android:id="@+id/item_lido"
+        android:icon="@drawable/ic_lido"
+        android:title="@string/lido" />
+
+    <item
+        android:id="@+id/item_lerei"
+        android:icon="@drawable/ic_lerei"
+        android:title="@string/lerei" />
+
+    <item
+        android:id="@+id/item_perfil"
+        android:icon="@drawable/ic_perfil"
+        android:title="@string/perfil" />
+</menu>

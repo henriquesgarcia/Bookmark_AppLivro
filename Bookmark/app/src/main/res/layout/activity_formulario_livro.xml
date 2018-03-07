@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_marginStart="8dp"
+    android:layout_marginEnd="8dp"
+    tools:context=".FormularioLivroActivity">
+
+    <!--TÍTULO-->
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp" >
+
+        <EditText
+            android:id="@+id/edit_titulo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/titulo"
+            android:ems="15"
+            android:inputType="textShortMessage"
+            android:fontFamily="@font/nunito_light"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <!--SALVAR-->
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp"
+        android:backgroundTint="@color/colorAccent"
+        android:onClick="salvarLivro"
+        android:text="@string/salvar"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+        android:fontFamily="@font/nunito_light"/>
+
+</LinearLayout>
