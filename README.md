@@ -41,4 +41,4 @@ ADS - IFPI
 <img src="Diagrama.png" />
 
 ## Telas
-<img src="Telas.jpg />"
+<img src="Telas.JPG />"
