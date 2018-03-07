@@ -1,7 +1,7 @@
 # Bookmark_AppLivro
-Aplicativo de acompanhamento de leituras
-Disciplina: POO
-Professor: Rogério Silva
+Aplicativo de acompanhamento de leituras <br />
+Disciplina: POO <br />
+Professor: Rogério Silva <br />
 ADS - IFPI
 
 ## Funcionalidades
